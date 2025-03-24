@@ -24,7 +24,7 @@ However, as <a target="_blank" href="https://gist.github.com/zenorocha/7159780">
 
 > "I don't want all the crap I had in the old one."
 
-This script helps you manage what you have installed so you can, but don't have to start from scratch.
+This script helps you manage what you have installed so yÂou can, but don't have to start from scratch.
 
 Target users of this script are those who configure new laptops for developers joining the organization,
 so each developer doesn't waste days installing everything one at a time (and doing it differently than colleagues). 
@@ -93,7 +93,7 @@ It contains a configuration file named <strong>secrets.sh</strong> which you edi
 
    ### TRYOUT one at a time
 
-8. Scroll to the bottom of the secrets.sh file and click between the double-quotes of <tt><strong>TRYOUT=""</strong></tt>.
+    8. Scroll to the bottom of the secrets.sh file and  between the double-quotes of <tt><strong>TRYOUT=""</strong></tt>.
 
    Paste or type the keyword of the components you want opened (invoked) by the script.
 
